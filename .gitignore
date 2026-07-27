@@ -1,0 +1,10 @@
+# Icon files are distributed through GitHub Releases
+Packs/*/ICONS/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Windows files
+Thumbs.db
+desktop.ini
