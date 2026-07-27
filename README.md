@@ -24,7 +24,7 @@ Preview:
 
 Download:
 
-Available through the GitHub Releases section.
+[Download Eclipse Icons v1.0](https://github.com/IHealDrunk/IHealDrunk-Custom-Icons/releases/tag/v1.0)
 
 ---
 
