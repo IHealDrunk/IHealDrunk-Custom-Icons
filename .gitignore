@@ -1,5 +1,8 @@
 # Icon files are distributed through GitHub Releases
-Packs/*/ICONS/
+*/ICONS/
+
+# Release packages
+*.zip
 
 # Temporary files
 *.tmp
