@@ -18,11 +18,11 @@ A dark, refined icon style featuring:
 - Gloss highlights
 - Clean fantasy-inspired appearance
 
-Preview:
+### Preview
 
 ![Eclipse Icons](Preview/Eclipse.png)
 
-Download:
+### Download
 
 [Download Eclipse Icons v1.0](https://github.com/IHealDrunk/IHealDrunk-Custom-Icons/releases/tag/v1.0)
 
@@ -32,7 +32,7 @@ Download:
 
 1. Download the icon pack from the Releases section.
 2. Extract the `ICONS` folder.
-3. Place the `ICONS` folder inside your World of Warcraft `Interface` folder:
+3. Place the `ICONS` folder inside your World of Warcraft `Interface` folder.
 4. Restart World of Warcraft.
 
 ---
@@ -43,10 +43,14 @@ Additional custom icon designs and visual styles are planned for future releases
 
 ---
 
-## Credits
-
-Created by:
+## Creator
 
 **IHealDrunk**
 
-Custom World of Warcraft UI assets and icon designs.
+Custom World of Warcraft icon packs and UI assets.
+
+---
+
+## Acknowledgements
+
+Special thanks to **Simpy** for the inspiration behind this project. Seeing one of their custom icon packs motivated me to learn how they were made. That curiosity led me to develop my own templates, artwork, and icon processing pipeline from the ground up, which ultimately evolved into **[WoW Icon Tools](https://github.com/IHealDrunk/WoW-Icon-Tools)**.
