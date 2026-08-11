@@ -20,3 +20,4 @@ Eclipse features:
 ## Version
 
 v1.0
+v1.1 Updated Midnight 12.1

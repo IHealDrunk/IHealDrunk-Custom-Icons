@@ -24,8 +24,7 @@ A dark, refined icon style featuring:
 
 ### Download
 
-[Download Eclipse Icons v1.0](https://github.com/IHealDrunk/IHealDrunk-Custom-Icons/releases/tag/v1.0)
-
+[Download the Latest Eclipse Icons Release](https://github.com/IHealDrunk/IHealDrunk-Custom-Icons/releases/latest)
 ---
 
 ## Installation
