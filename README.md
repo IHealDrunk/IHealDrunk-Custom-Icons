@@ -25,14 +25,24 @@ A dark, refined icon style featuring:
 ### Download
 
 [Download the Latest Eclipse Icons Release](https://github.com/IHealDrunk/IHealDrunk-Custom-Icons/releases/latest)
+
+[View Eclipse Details](Eclipse/README.md)
+
 ---
 
 ## Installation
 
-1. Download the icon pack from the Releases section.
+1. Download the latest icon pack from the Releases section.
 2. Extract the `ICONS` folder.
-3. Place the `ICONS` folder inside your World of Warcraft `Interface` folder.
+3. Place the `ICONS` folder inside:
+   `World of Warcraft\_retail_\Interface\`
 4. Restart World of Warcraft.
+
+---
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for release history.
 
 ---
 
