@@ -1,65 +1,63 @@
+<div align="center">
+
 # IHealDrunk Custom Icons
 
-Custom World of Warcraft icon packs featuring unique visual styles designed for players who want a polished and consistent UI aesthetic.
+**Two styles. Your World of Warcraft UI.**
 
-Each icon pack is built with custom layers, effects, and visual treatments to create a distinct look while maintaining clarity and readability in-game.
+Custom icon packs by **IHealDrunk**, built with custom layers, effects, and visual treatments for a polished, consistent look in-game.
+
+[Choose your pack](#choose-your-pack) · [Installation](#installation) · [Changelog](Changelog.md)
+
+</div>
 
 ---
 
-## Available Icon Packs
+## Choose your pack
 
-### 🌑 Eclipse Icons
+### Eclipse
 
-A dark, refined icon style featuring:
+Dark borders, layered shadows, subtle glow, and gloss highlights for a refined, fantasy-inspired finish.
 
-- Custom shadow depth
-- Dark border treatment
-- Subtle glow effects
-- Gloss highlights
-- Clean fantasy-inspired appearance
+![Eclipse icon preview](Preview/Eclipse.png)
 
-### Preview
+**[Download Eclipse v1.2 ZIP](https://github.com/IHealDrunk/IHealDrunk-Custom-Icons/releases/download/v1.2/Eclipse.v1.2.zip)** · [Release notes](https://github.com/IHealDrunk/IHealDrunk-Custom-Icons/releases/tag/v1.2)
 
-![Eclipse Icons](Preview/Eclipse.png)
+### Onyx
 
-### Download
+A deep black frame and soft shadow give the artwork a clean, understated finish.
 
-[Download the Latest Eclipse Icons Release](https://github.com/IHealDrunk/IHealDrunk-Custom-Icons/releases/latest)
+![Onyx icon preview](Preview/Onyx.png)
 
-[View Eclipse Details](Eclipse/README.md)
+**[Download Onyx v1.0 ZIP](https://github.com/IHealDrunk/IHealDrunk-Custom-Icons/releases/download/onyx-v1.0/Onyx.zip)** · [Release notes](https://github.com/IHealDrunk/IHealDrunk-Custom-Icons/releases/tag/onyx-v1.0)
+
 
 ---
 
 ## Installation
 
-1. Download the latest icon pack from the Releases section.
-2. Extract the `ICONS` folder.
-3. Place the `ICONS` folder inside:
-   `World of Warcraft\_retail_\Interface\`
+1. Download the ZIP for your chosen pack above. Use the pack ZIP rather than GitHub's source-code archives.
+2. Close World of Warcraft and extract the ZIP. Both packs use an `ICONS` folder.
+3. Back up any existing custom icons, then place your chosen pack's `ICONS` folder inside:
+
+   ```text
+   World of Warcraft\_retail_\Interface\
+   ```
+
+   The resulting path should be `World of Warcraft\_retail_\Interface\ICONS\`.
 4. Restart World of Warcraft.
 
----
+Choose one pack at a time: both styles install to the same folder. To switch styles, back up and replace the existing custom `ICONS` folder with your chosen pack.
 
 ## Changelog
 
-See [CHANGELOG.md](CHANGELOG.md) for release history.
+See [Changelog.md](Changelog.md) for release history, or browse [all releases](https://github.com/IHealDrunk/IHealDrunk-Custom-Icons/releases).
 
----
+## Creator & acknowledgements
 
-## Future Packs
-
-Additional custom icon designs and visual styles are planned for future releases.
-
----
-
-## Creator
-
-**IHealDrunk**
-
-Custom World of Warcraft icon packs and UI assets.
-
----
-
-## Acknowledgements
+Created by **IHealDrunk**.
 
 Special thanks to **Simpy** for the inspiration behind this project. Seeing one of their custom icon packs motivated me to learn how they were made. That curiosity led me to develop my own templates, artwork, and icon processing pipeline from the ground up, which ultimately evolved into **[WoW Icon Tools](https://github.com/IHealDrunk/WoW-Icon-Tools)**.
+
+## Disclaimer
+
+This is an independent fan project and is not affiliated with or endorsed by Blizzard Entertainment. World of Warcraft and the original game artwork belong to their respective owners.
